@@ -1,12 +1,15 @@
 <?php
+
 <!DOCTYPE html>
 <html>
-<body>
-
-<h1>My first PHP page</h1>
-<H2> Axel Soto Page hieheiahidasi</H2>
-
-</body>
+    <head>
+        <title>Home page</title>
+    </head>
+    <body>
+        <h1>Home</h1>
+        <p>
+            This is a simple website to demonstrate the advantages of a PHP framework
+            and disadvantages of "pure" PHP.
+        </p>
+    </body>
 </html>
-
-?>

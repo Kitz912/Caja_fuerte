@@ -1,12 +1,12 @@
+<?php
 <!DOCTYPE html>
 <html>
 <body>
 
 <h1>My first PHP page</h1>
-
-<?php
-echo "Hello World My Name is Axel Soto!";
-?>
+<H2> Axel Soto Page hieheiahidasi</H2>
 
 </body>
 </html>
+
+?>
